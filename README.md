@@ -1,30 +1,28 @@
-```markdown
-<!-- ======================================================= -->
-<!--              AZIZULLAH SAAI - PROFILE README             -->
-<!-- ======================================================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm Azizullah Saai
+# 👋 Hi, I'm Azizullah Saai!
 
-### 💻 Information Systems Student | Aspiring Software Engineer
+### 🎓 Information Systems Student at Kabul University
+### 💻 Aspiring Software Engineer | Programmer | Tech Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Information+Systems+Student;Python+%7C+Java+%7C+C%2B%2B;Building+Projects%2C+Learning+Every+Day;Turning+Ideas+Into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Python+%7C+Java+%7C+C%2B%2B;Information+Systems+Student;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
 
-<p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</a>
+<a href="https://www.java.com/">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</a>
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" alt="Profile Views"/>
 
@@ -32,75 +30,80 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Hello! I'm **Azizullah Saai**, an Information Systems student at **Kabul University**, Afghanistan.
+Hello! I'm **Azizullah Saai**, an Information Systems student at **Kabul University, Afghanistan**.
 
-I'm passionate about programming, software development, and using technology to solve real-world problems.
+I'm passionate about programming, software development, databases, and technology. I enjoy solving problems, building practical projects, and continuously improving my technical skills.
 
-I enjoy learning new technologies, building practical projects, and improving my problem-solving skills every day.
+- 🎓 **University:** Kabul University
+- 📚 **Field of Study:** Information Systems
+- 💻 **Programming Languages:** Python, Java, C++
+- 🌐 **Web Development:** HTML, CSS, JavaScript
+- 🗄️ **Interests:** Databases, Software Engineering, and Information Systems
+- 🌱 **Currently Learning:** Programming, database development, and software engineering
+- 🎯 **Career Goal:** Become a skilled software engineer and develop useful technology solutions.
+- 🤝 **Open To:** Collaborations, open-source projects, and learning opportunities.
 
-- 🎓 **Education:** Information Systems, Kabul University
-- 💻 **Programming:** Python, Java, and C++
-- 🌐 **Web Development:** Building and learning modern web technologies
-- 🧠 **Interests:** Software Engineering, Databases, and Information Systems
-- 🌱 **Currently Learning:** Advanced programming, databases, and software development
-- 🎯 **Goal:** Become a skilled software engineer and develop useful technology solutions
-- 🤝 **Open To:** Learning opportunities, collaborations, and interesting projects
-
-> "Great things are built one line of code at a time."
+> "Great things are built one line of code at a time." 🚀
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
-<p align="left">
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/>
-  </a>
-</p>
+<div align="left">
+
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python"/>
+</a>
+<a href="https://www.java.com/">
+  <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java"/>
+</a>
+<a href="https://isocpp.org/">
+  <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++"/>
+</a>
+
+</div>
 
 ### 🌐 Web Development
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
-  </a>
-</p>
+<div align="left">
 
-### 🧰 Tools & Technologies
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=javascript" width="55" height="55" alt="JavaScript"/>
+</a>
 
-<p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="50" height="50"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/">
-    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
-  </a>
-</p>
+</div>
+
+### 🧰 Tools and Technologies
+
+<div align="left">
+
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/>
+</a>
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/>
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/>
+</a>
+<a href="https://www.jetbrains.com/idea/">
+  <img src="https://skillicons.dev/icons?i=idea" width="55" height="55" alt="IntelliJ IDEA"/>
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL"/>
+</a>
+
+</div>
 
 ---
 
@@ -108,13 +111,15 @@ I enjoy learning new technologies, building practical projects, and improving my
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 
 </div>
 
-### 🔥 Contribution Streak
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -122,82 +127,87 @@ I enjoy learning new technologies, building practical projects, and improving my
 
 </div>
 
-### 🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 
 </div>
 
-### ⭐ Contributions & Activity
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity"/>
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+Here are some projects I am developing or plan to showcase.
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| 🎓 Student Management System | Manage student records and academic information. | Python, MySQL |
+| 💻 Java Applications | Practice object-oriented programming and application development. | Java |
+| 🌐 Personal Portfolio | Showcase my skills, projects, and achievements. | HTML, CSS, JavaScript |
+| 🗄️ Database Projects | Design databases and manage structured information. | SQL, MySQL |
+| 🤖 Python Projects | Build applications and solve programming problems. | Python |
+
+**Note:** Replace these ideas with links to your actual repositories when your projects are available.
 
 ---
 
 ## 🎯 My Goals
 
-- 📚 Strengthen my foundations in programming and computer science.
-- 🐍 Improve my Python skills through practical projects.
-- ☕ Develop Java applications using object-oriented programming.
-- ⚙️ Improve my C++ programming and problem-solving abilities.
-- 🌐 Build useful and responsive websites.
-- 🗄️ Develop a strong understanding of databases and information systems.
-- 🤝 Collaborate with other developers and contribute to open-source projects.
-- 🚀 Build software that solves real problems and creates positive change.
+- 📚 Strengthen my computer science and programming foundations.
+- 🐍 Build practical Python applications.
+- ☕ Improve my Java and object-oriented programming skills.
+- ⚙️ Develop problem-solving skills with C++.
+- 🌐 Create useful and responsive websites.
+- 🗄️ Learn advanced database design and management.
+- 🤝 Contribute to open-source projects.
+- 🚀 Build technology solutions that address real-world problems.
 
 ---
 
-## 📌 Featured Projects
+## 📚 My Learning Philosophy
 
-Here are some of the projects I plan to showcase on my GitHub profile:
+I believe that consistency, curiosity, and practical experience are essential to becoming a better developer.
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🎓 Student Management System | Manage student records and academic information. | Python, SQL |
-| 🗄️ Database Management System | Store, organize, and retrieve structured information. | Java, MySQL |
-| 🌐 Personal Portfolio Website | Showcase my skills, projects, and achievements. | HTML, CSS, JavaScript |
-| 💻 Programming Projects | Practice algorithms, OOP, and problem-solving. | Python, Java, C++ |
+Every project is an opportunity to learn something new, improve my skills, and turn knowledge into practice.
 
-> These are project ideas. Replace them with links to your actual repositories as you complete them.
+**Learn. Build. Improve. Repeat.** 💡
 
 ---
 
-## 🌱 My Learning Philosophy
-
-I believe that consistent practice, curiosity, and real-world projects are essential to becoming a better developer.
-
-I'm committed to learning something new every day, sharing my progress, and turning knowledge into practical skills.
-
-**Learn. Build. Improve. Repeat.** 🚀
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning from others, discussing technology, and exploring opportunities to collaborate.
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
-<!-- Add your LinkedIn URL when available -->
-<!-- Add your professional email when you are ready to share it -->
+<!-- Add your LinkedIn profile link here when available -->
+
+<!-- Add your professional email here if you want to share it publicly -->
 
 <br/><br/>
 
-### 💙 Thanks for visiting my profile!
+### 💙 Thank You for Visiting My Profile!
 
-**If you find my projects interesting, consider giving them a ⭐**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" alt="Footer"/>
+If you find my projects useful, feel free to explore my repositories and leave a ⭐.
 
 </div>
-```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" width="100%" alt="Footer"/>
+</div>
