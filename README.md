@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/azizullahsaai-lgtm">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.python.org/">
@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=azizullahsaai-lgtm&style=for-the-badge&color=blue" alt="Profile Views"/>
 
 </div>
 
@@ -111,9 +111,9 @@ I'm passionate about programming, software development, databases, and technolog
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=azizullahsaai-lgtm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizullahsaai-lgtm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 
 </div>
 
@@ -123,7 +123,7 @@ I'm passionate about programming, software development, databases, and technolog
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=azizullahsaai-lgtm&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -133,7 +133,7 @@ I'm passionate about programming, software development, databases, and technolog
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=azizullahsaai-lgtm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -143,7 +143,7 @@ I'm passionate about programming, software development, databases, and technolog
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azizullahsaai-lgtm&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -192,7 +192,7 @@ Every project is an opportunity to learn something new, improve my skills, and t
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/azizullahsaai-lgtm">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
