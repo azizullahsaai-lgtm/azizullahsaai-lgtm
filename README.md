@@ -190,6 +190,8 @@ Every project is an opportunity to learn something new, improve my skills, and t
 
 ## 🤝 Connect With Me
 
+
+https://www.linkedin.com/in/azizullah-saai-6b8516371
 <div align="center">
 
 <a href="https://github.com/azizullahsaai-lgtm">
